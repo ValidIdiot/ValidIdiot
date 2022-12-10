@@ -1,4 +1,4 @@
-# ValiIdiot
+# ValidIdiot
 
 - Hi, I’m [ValidIdiot](https://github.com/ValidIdiot)!
 - I’m interested in creating Python and HTML projects
