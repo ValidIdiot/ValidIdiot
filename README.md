@@ -1,5 +1,5 @@
-# ValidIdiot
+# Jerraf2p0
 
-- Hi, I’m [ValidIdiot](https://github.com/ValidIdiot)!
-- I’m interested in creating Python and HTML projects
-- I’m not really learning anything right now...
+- Hi, I’m [Jerraf2p0](https://github.com/ValidIdiot)!
+- I’m interested in creating C and C++ projects right now.
+- I’m currently learning how to make an x86 operating system
